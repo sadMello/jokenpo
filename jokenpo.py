@@ -14,3 +14,8 @@ def jogar():
         if jogador not in opcoes:
             print("Escolha inválida. Por favor, escolha entre pedra, papel ou tesoura.")
             continue
+        # Escolha do computador
+        computador = random.choice(opcoes)
+        
+        print(f"Você escolheu: {jogador}")
+        print(f"O computador escolheu: {computador}")
