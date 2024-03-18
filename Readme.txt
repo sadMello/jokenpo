@@ -8,3 +8,6 @@ Wanderson Almeida / sadMello
 
 Primeira Feature: Adicionando a escolha do usuario ao código e alterações no readme
 Responsável: Breno / Revisor: Wanderson
+
+Segunda Feature: Adicionando o algoritmo de escolha do computador e alterações no Readme
+Responsavel: Wanderson / Revisor: Breno
