@@ -5,3 +5,6 @@ Um jogo de Pedra-Papel-Tesoura feito em python com o objetivo de exeplificar a u
 Dupla: 
 Breno Borges / brenoborgesbr
 Wanderson Almeida / sadMello
+
+Primeira Feature: Adicionando a escolha do usuario ao código e alterações no readme
+Responsável: Breno / Revisor: Wanderson
