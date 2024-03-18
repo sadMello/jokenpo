@@ -11,3 +11,6 @@ Responsável: Breno / Revisor: Wanderson
 
 Segunda Feature: Adicionando o algoritmo de escolha do computador e alterações no Readme
 Responsavel: Wanderson / Revisor: Breno
+
+Terceira Feature: Adicionando a função de verificar o vencedor e a função jogar, alem de alterações no readme
+Responsável: Breno / Revisor: Wanderson
